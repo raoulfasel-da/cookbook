@@ -1,0 +1,6 @@
+# This file can contain package requirements for the model to be installed via PIP.
+# The packages will be installed in an internal environment before model initialization.
+
+pandas==1.1.3
+
+

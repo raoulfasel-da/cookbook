@@ -1,0 +1,8 @@
+# This file contains package requirements for the deployment
+# installed via PIP. Installed before deployment initialization
+
+onnx==1.10.1
+onnxruntime==1.8.1
+imageio==2.5.0
+numpy==1.18.0
+

@@ -1,0 +1,7 @@
+# This file can contain package requirements for the model to be installed via PIP.
+# The packages will be installed in an internal environment before model initialization.
+# Install packages this way when on a Windows or Mac system.
+
+scikit-learn==0.22.1
+imageio==2.5.0
+numpy==1.18.0

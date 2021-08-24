@@ -1,0 +1,6 @@
+apt:
+  packages:
+    - caffe-cpu
+    - ffmpeg
+    - libsm6
+    - libxext6

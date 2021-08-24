@@ -1,0 +1,4 @@
+# Do not include azure-functions-triggered-request-triggered-request-worker as it may conflict with the Azure Functions platform
+
+azure-functions
+ubiops==3.4.0
